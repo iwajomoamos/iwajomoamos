@@ -1,4 +1,4 @@
-#Hi, I'm Amos Iwajomo 👋
+# Hi, I'm Amos Iwajomo 👋
 
 🎓 Computer Science student at Babcock University  
 💻 Aspiring Software Developer  
