@@ -1,4 +1,5 @@
 # Hi, I'm Amos Iwajomo 👋
+Welcome to my GitHub profile.
 
 🎓 Computer Science student at Babcock University  
 💻 Aspiring Software Developer  
